@@ -1,4 +1,4 @@
-![screenshot](/maritocuate/banner.png?raw=true)
+![screenshot](/banner.png?raw=true)
 
 <!--
 <h1 align="center">Hi 👋, I'm Mario</h1>
