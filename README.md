@@ -10,9 +10,13 @@ Let’s connect and build something amazing together! ✨
 
 ### Tech Stack
 
-![javascript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
-![react](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
-![typescript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)
 ![nextjs](https://img.shields.io/badge/nextjs-grey?style=for-the-badge&logo=next.js)
+![react](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
+![redux](https://img.shields.io/badge/redux-grey?style=for-the-badge&logo=redux)
+![typescript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)
+![javascript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
+![mongodb](https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb)
+![node](https://img.shields.io/badge/node-grey?style=for-the-badge&logo=node.js)
 ![jest](https://img.shields.io/badge/jest-grey?style=for-the-badge&logo=jest)
 ![git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
+![sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass)
