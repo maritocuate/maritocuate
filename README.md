@@ -13,6 +13,7 @@ Let’s connect and build something amazing together! ✨
 ![nextjs](https://img.shields.io/badge/nextjs-grey?style=for-the-badge&logo=next.js)
 ![react](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
 ![redux](https://img.shields.io/badge/redux-grey?style=for-the-badge&logo=redux)
+![socket](https://img.shields.io/badge/socket.io-grey?style=for-the-badge&logo=socket.io)
 ![typescript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)
 ![javascript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
 ![mongodb](https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb)
