@@ -7,3 +7,12 @@
 🚀 Software development is my passion—I’m always looking for new challenges and exciting projects where I can apply my knowledge and continue growing as a professional.
 
 Let’s connect and build something amazing together! ✨
+
+### Tech Stack
+
+![javascript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
+![react](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
+![typescript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)
+![nextjs](https://img.shields.io/badge/nextjs-grey?style=for-the-badge&logo=next.js)
+![jest](https://img.shields.io/badge/jest-grey?style=for-the-badge&logo=jest)
+![git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
