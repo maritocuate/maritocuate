@@ -14,6 +14,8 @@ Let’s connect and build something amazing together! ✨
 ![react](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
 ![redux](https://img.shields.io/badge/redux-grey?style=for-the-badge&logo=redux)
 ![socket](https://img.shields.io/badge/socket.io-grey?style=for-the-badge&logo=socket.io)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-grey?style=for-the-badge&logo=tailwindcss)
+![storybook](https://img.shields.io/badge/storybook-grey?style=for-the-badge&logo=storybook)
 ![typescript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)
 ![javascript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
 ![mongodb](https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb)
