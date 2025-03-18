@@ -1,12 +1,10 @@
 ![screenshot](/banner.png?raw=true)
 
-Lately I working with ReactJs for over three years now using design patterns (HOC, Presentational, Provider, Compound, etc). I prefer Jest for unit testing, and I also use Cypress for end-to-end testing.
-For some projects where I need to work server-side I use NextJs 14 (TypeScript) with Prisma for the NoSQL databases (MongoDB).
+👋 Hi! I'm Mario
+💻 I'm a web developer based in Buenos Aires.
 
-Through the years I acquired strong understanding of vanilla JavaScript and general knowledge in popular libraries like jQuery, GSAP, Bootstrap, etc.
-I have experience with source control using Git and SVN.
-Familiar with NodeJS and Express. Although I mostly use Django.
-Campaign tracking with Google Web Analytics and Google Tag Manager.
-CI/CD with CircleCI.
+Over 10 years ago, I started my journey in programming with ActionScript 2 (back when Flash ruled the web 🌐). As Flash became obsolete, I transitioned to JavaScript and have since kept up to date with modern frameworks, design patterns, and best practices.
 
-Passion for new challenges, coding practices and a desire to develop new bold ideas.
+🚀 Software development is my passion—I’m always looking for new challenges and exciting projects where I can apply my knowledge and continue growing as a professional.
+
+Let’s connect and build something amazing together! ✨
