@@ -9,7 +9,7 @@
 Let’s connect and build something amazing together! ✨
 
 <div align="center">
-<h4>Tech Stack</h4>
+<h3>Tech Stack</h3>
 
 ![nextjs](https://img.shields.io/badge/nextjs-grey?style=for-the-badge&logo=next.js)
 ![react](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
